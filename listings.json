@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/alex-gordon/index.html",
       "/posts/lock-or-wilson/index.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html",
